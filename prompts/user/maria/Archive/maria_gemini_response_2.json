@@ -25,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "I need to go to my desk to prepare for the meeting with the boss.",
-    "reason": "Preparing for the meeting should be prioritized."
+    "type": "prepare",
+    "thought": "I should go to my desk to prepare for the meeting with the boss.",
+    "reason": "Need to get to my desk to organize notes and prepare for the meeting."
   },
   "prompt": "What should I do next?"
 }

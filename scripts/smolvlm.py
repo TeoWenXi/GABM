@@ -10,11 +10,11 @@ model = AutoModelForImageTextToText.from_pretrained(
 )
 
 # Read system prompt from file
-with open("../prompts/system/systemprompt.txt", "r", encoding="utf-8") as f:
+with open("./prompts/system/systemprompt.txt", "r", encoding="utf-8") as f:
     system_prompt = f.read()
 
 # Read user prompt from maria.json
-with open("../prompts/user/maria.txt", "r", encoding="utf-8") as f:
+with open("./prompts/user/maria.txt", "r", encoding="utf-8") as f:
     user_prompt = f.read()
 
 image_url = "http://images.cocodataset.org/val2017/000000039769.jpg"

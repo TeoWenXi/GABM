@@ -25,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "I'll just browse the internet for a bit to kill time before the meeting.",
-    "reason": "Procrastinating before the meeting."
+    "type": "check email",
+    "thought": "I should probably check my email, even though I don't want to.",
+    "reason": "I should check to see if there's anything important before the meeting."
   },
   "prompt": "What should I do next?"
 }

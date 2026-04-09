@@ -1,10 +1,10 @@
 {
   "name": "maria",
-  "current_time": "09:30",
+  "current_time": "09:01",
   "personality": "Highly dedicated and diligent, always strives to complete tasks efficiently and on time. Pays close attention to detail, is proactive in solving problems, and consistently goes above and beyond to support the team. Maintains a positive attitude under pressure and values professionalism and reliability in the workplace.",
-  "location": "boss's room",
-  "action": "stay",
-  "target": "boss's room",
+  "location": "entrance",
+  "action": "move",
+  "target": "desk",
   "image_path": "./images/user/maria",
   "prompt_path": "./prompts/user/maria",
   "current_tasks": [
@@ -25,9 +25,8 @@
     }
   ],
   "thought_process": {
-    "type": "meeting",
-    "thought": "The meeting with the boss is starting now. Time to focus and contribute effectively.",
-    "reason": "It's time to start the meeting and ensure I'm prepared to discuss all relevant topics."
+    "thought": "I need to go to my desk to prepare for the meeting with the boss.",
+    "reason": "Preparing for the meeting should be prioritized."
   },
   "prompt": "What should I do next?"
 }

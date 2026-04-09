@@ -1,15 +1,15 @@
 {
-  "name": "john",
+  "name": "derek",
   "current_time": "09:00",
-  "personality": "Often unmotivated and careless, tends to procrastinate and rarely completes tasks on time. Pays little attention to detail, avoids taking initiative, and frequently neglects responsibilities. Struggles to stay positive under pressure and often displays a lack of professionalism and reliability in the workplace.",
-  "location": "Table 1",
-  "action": "Play games on phone",
-  "emoticon": "Gaming",
+  "personality": "Chronically anxious and overthinks every decision. Arrives early to meetings out of fear of being late, double-checks work obsessively, and frequently worries about making mistakes. Avoids confrontation and prefers to work alone. Despite the anxiety, produces high-quality work because of constant self-review. Tends to skip meals when stressed and retreats to quiet corners during breaks.",
+  "location": "Table 5",
+  "action": "Nervously reviewing yesterday's emails",
+  "emoticon": "Thinking",
   "displayed_action": "idle",
   "next_action_start_time": "09:00",
   "target": "",
-  "image_path": "./images/user/john",
-  "prompt_path": "./prompts/user/john",
+  "image_path": "./images/user/derek",
+  "prompt_path": "./prompts/user/derek",
   "pathfinding_behaviour": "Avoid People",
   "current_tasks": [
     {
@@ -33,8 +33,7 @@
     "thought": "",
     "reason": ""
   },
-  "updated_memories": [
-  ],
+  "updated_memories": [],
   "talking_text": "",
   "prompt": "What should I do next?"
 }

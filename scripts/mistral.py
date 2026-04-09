@@ -3,11 +3,11 @@ import torch
 from transformers import pipeline
 
 # Read system prompt from file
-with open("../prompts/system/systemprompt.txt", "r", encoding="utf-8") as f:
+with open("./prompts/system/systemprompt.txt", "r", encoding="utf-8") as f:
     system_prompt = f.read()
 
 # Read user prompt from maria.json
-with open("../prompts/user/maria.txt", "r", encoding="utf-8") as f:
+with open("./prompts/user/maria.txt", "r", encoding="utf-8") as f:
     user_prompt = f.read()
 
 def messages_to_prompt(messages):

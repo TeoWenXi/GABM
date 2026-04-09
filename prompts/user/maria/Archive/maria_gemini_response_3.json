@@ -25,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "I should prepare for the meeting with my boss by reviewing the agenda and any relevant materials.",
-    "reason": "It's important to be well-prepared for the meeting to ensure it's productive."
+    "type": "prepare",
+    "thought": "Need to review my notes and prepare an agenda for the meeting with my boss.",
+    "reason": "It's important to be well-prepared for the meeting to make it efficient and productive."
   },
   "prompt": "What should I do next?"
 }

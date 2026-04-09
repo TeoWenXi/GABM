@@ -1,0 +1,39 @@
+{
+  "name": "priya",
+  "current_time": "09:00",
+  "personality": "Extremely social and energetic, thrives on human interaction and office culture. Frequently visits colleagues at their desks to chat, organizes informal gatherings, and is always the first to suggest a group lunch. While genuinely warm and supportive, she often underestimates how long tasks take because conversations run long. Prioritizes relationships over rigid schedules but always delivers eventually. Uses breaks for socializing rather than solo activities.",
+  "location": "Table 10",
+  "action": "Greeting nearby colleagues",
+  "emoticon": "Happy",
+  "displayed_action": "idle",
+  "next_action_start_time": "09:00",
+  "target": "",
+  "image_path": "./images/user/priya",
+  "prompt_path": "./prompts/user/priya",
+  "pathfinding_behaviour": "Shortest Path",
+  "current_tasks": [
+    {
+      "task": "Meeting with boss",
+      "start_time": "09:30",
+      "time_required": "60 min"
+    },
+    {
+      "task": "Finish admin reports",
+      "start_time": "flexible",
+      "time_required": "120 min"
+    },
+    {
+      "task": "Team meeting",
+      "start_time": "16:00",
+      "time_required": "30 min"
+    }
+  ],
+  "thought_process": {
+    "type": "",
+    "thought": "",
+    "reason": ""
+  },
+  "updated_memories": [],
+  "talking_text": "",
+  "prompt": "What should I do next?"
+}

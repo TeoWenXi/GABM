@@ -2,11 +2,15 @@
   "name": "maria",
   "current_time": "09:00",
   "personality": "Highly dedicated and diligent, always strives to complete tasks efficiently and on time. Pays close attention to detail, is proactive in solving problems, and consistently goes above and beyond to support the team. Maintains a positive attitude under pressure and values professionalism and reliability in the workplace.",
-  "location": "entrance",
-  "action": "",
+  "location": "Table 1",
+  "action": "Working at desk",
+  "emoticon": "Working",
+  "displayed_action": "idle",
+  "next_action_start_time": "09:00",
   "target": "",
   "image_path": "./images/user/maria",
   "prompt_path": "./prompts/user/maria",
+  "pathfinding_behaviour": "Shortest Path",
   "current_tasks": [
     {
       "task": "Meeting with boss",
@@ -29,5 +33,8 @@
     "thought": "",
     "reason": ""
   },
+  "updated_memories": [
+  ],
+  "talking_text": "",
   "prompt": "What should I do next?"
 }

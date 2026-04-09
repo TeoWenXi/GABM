@@ -1,6 +1,6 @@
 {
   "name": "john",
-  "current_time": "09:17",
+  "current_time": "09:12",
   "personality": "Often unmotivated and careless, tends to procrastinate and rarely completes tasks on time. Pays little attention to detail, avoids taking initiative, and frequently neglects responsibilities. Struggles to stay positive under pressure and often displays a lack of professionalism and reliability in the workplace.",
   "location": "desk",
   "action": "stay",
@@ -25,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "I should probably head to the boss's room soon, or I'll be late.",
-    "reason": "Preparing for the meeting, even if reluctantly."
+    "type": "surf internet",
+    "thought": "I'll just browse the internet for a bit to kill time before the meeting. What could go wrong?",
+    "reason": "I want to procrastinate and avoid doing real work."
   },
   "prompt": "What should I do next?"
 }

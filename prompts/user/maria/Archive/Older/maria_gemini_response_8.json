@@ -1,18 +1,13 @@
 {
   "name": "maria",
-  "current_time": "09:29",
+  "current_time": "10:31",
   "personality": "Highly dedicated and diligent, always strives to complete tasks efficiently and on time. Pays close attention to detail, is proactive in solving problems, and consistently goes above and beyond to support the team. Maintains a positive attitude under pressure and values professionalism and reliability in the workplace.",
   "location": "boss's room",
-  "action": "stay",
-  "target": "boss's room",
+  "action": "move",
+  "target": "desk",
   "image_path": "./images/user/maria",
   "prompt_path": "./prompts/user/maria",
   "current_tasks": [
-    {
-      "task": "Meeting with boss",
-      "start_time": "09:30",
-      "time_required": "60 min"
-    },
     {
       "task": "Finish admin reports",
       "start_time": "flexible",
@@ -25,9 +20,8 @@
     }
   ],
   "thought_process": {
-    "type": "wait",
-    "thought": "Waiting for the meeting to start. Just a minute left.",
-    "reason": "Being punctual shows respect for everyone's time."
+    "thought": "Need to return to my desk.",
+    "reason": "Moving from the boss's room to my desk to work on the admin reports."
   },
   "prompt": "What should I do next?"
 }

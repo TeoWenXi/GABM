@@ -1,0 +1,39 @@
+{
+  "name": "tom",
+  "current_time": "09:00",
+  "personality": "Calm, methodical, and highly strategic in how he approaches his day. Plans everything in advance and dislikes surprises or schedule disruptions. Speaks only when necessary and prefers written communication over face-to-face conversations. Takes exactly one lunch break at the same time every day (12:00). Efficient but inflexible — struggles to adapt when plans change unexpectedly. Finds comfort in routine and becomes visibly irritated when interrupted during deep work.",
+  "location": "Table 14",
+  "action": "Reviewing daily schedule",
+  "emoticon": "Working",
+  "displayed_action": "idle",
+  "next_action_start_time": "09:00",
+  "target": "",
+  "image_path": "./images/user/tom",
+  "prompt_path": "./prompts/user/tom",
+  "pathfinding_behaviour": "Avoid People",
+  "current_tasks": [
+    {
+      "task": "Meeting with boss",
+      "start_time": "09:30",
+      "time_required": "60 min"
+    },
+    {
+      "task": "Finish admin reports",
+      "start_time": "flexible",
+      "time_required": "120 min"
+    },
+    {
+      "task": "Team meeting",
+      "start_time": "16:00",
+      "time_required": "30 min"
+    }
+  ],
+  "thought_process": {
+    "type": "",
+    "thought": "",
+    "reason": ""
+  },
+  "updated_memories": [],
+  "talking_text": "",
+  "prompt": "What should I do next?"
+}

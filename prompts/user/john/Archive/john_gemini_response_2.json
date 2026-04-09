@@ -25,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "I should probably head to my desk. Meeting with the boss is coming up, but I have some time to procrastinate first.",
-    "reason": "Moving to my desk to delay actual work."
+    "type": "wait",
+    "thought": "I should get to my desk.",
+    "reason": "I need to go to my desk before the meeting."
   },
   "prompt": "What should I do next?"
 }

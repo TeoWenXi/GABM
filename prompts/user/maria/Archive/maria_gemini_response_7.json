@@ -1,6 +1,6 @@
 {
   "name": "maria",
-  "current_time": "10:30",
+  "current_time": "09:29",
   "personality": "Highly dedicated and diligent, always strives to complete tasks efficiently and on time. Pays close attention to detail, is proactive in solving problems, and consistently goes above and beyond to support the team. Maintains a positive attitude under pressure and values professionalism and reliability in the workplace.",
   "location": "boss's room",
   "action": "stay",
@@ -8,6 +8,11 @@
   "image_path": "./images/user/maria",
   "prompt_path": "./prompts/user/maria",
   "current_tasks": [
+    {
+      "task": "Meeting with boss",
+      "start_time": "09:30",
+      "time_required": "60 min"
+    },
     {
       "task": "Finish admin reports",
       "start_time": "flexible",
@@ -20,8 +25,9 @@
     }
   ],
   "thought_process": {
-    "thought": "The meeting with the boss is now finished. Time to head back to my desk to get started on those admin reports.",
-    "reason": "The admin reports have a flexible start time, but it is important to get started on them."
+    "type": "wait",
+    "thought": "Waiting for the meeting to start. Just a minute left.",
+    "reason": "Being punctual shows respect for everyone's time."
   },
   "prompt": "What should I do next?"
 }
